@@ -1,0 +1,22 @@
+total 25
+drwxr-xr-x 1 PC 197121  0 Apr  4 20:53 .
+drwxr-xr-x 1 PC 197121  0 Apr  4 18:35 ..
+-rwxr-xr-x 1 PC 197121 34 Apr  4 18:35 0-hello_world
+-rwxr-xr-x 1 PC 197121 33 Apr  4 18:35 1-confused_smiley
+-rwxr-xr-x 1 PC 197121 46 Apr  4 20:40 10-no_more_js
+-rwxr-xr-x 1 PC 197121 52 Apr  4 20:41 11-directories
+-rwxr-xr-x 1 PC 197121 32 Apr  4 20:43 12-newest_files
+-rwxr-xr-x 1 PC 197121 27 Apr  4 20:44 13-unique
+-rwxr-xr-x 1 PC 197121 36 Apr  4 20:46 14-findthatword
+-rwxr-xr-x 1 PC 197121 49 Apr  4 20:47 15-countthatword
+-rwxr-xr-x 1 PC 197121 30 Apr  4 18:35 2-hellofile
+-rwxr-xr-x 1 PC 197121 41 Apr  4 18:35 3-twofiles
+-rwxr-xr-x 1 PC 197121 37 Apr  4 18:35 4-lastlines
+-rwxr-xr-x 1 PC 197121 37 Apr  4 18:35 5-firstlines
+-rwxr-xr-x 1 PC 197121 42 Apr  4 18:35 6-third_line
+-rwxr-xr-x 1 PC 197121 76 Apr  4 20:05 7-file
+-rwxr-xr-x 1 PC 197121 36 Apr  4 20:52 8-cwd_state
+-rwxr-xr-x 1 PC 197121 37 Apr  4 20:37 9-duplicate_last_line
+-rw-r--r-- 1 PC 197121 46 Apr  4 18:35 README.md
+-rw-r--r-- 1 PC 197121  0 Apr  4 20:38 iacta
+-rw-r--r-- 1 PC 197121  0 Apr  4 20:53 ls_cwd_content
